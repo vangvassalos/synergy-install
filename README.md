@@ -1,2 +1,4 @@
 # synergy-install
-synergy installation on win/ubuntu(arm64, amd64)/macOS
+synergy installation files on win/ubuntu(arm64, amd64)/macOS 
+
+last versions working for free
